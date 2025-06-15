@@ -8,4 +8,5 @@ export default defineConfig({
       overlay: false // Desactiva el overlay de errores HMR si es necesario
     }
   }
+  base: '/ultimatarea/',
 })
